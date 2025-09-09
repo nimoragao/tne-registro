@@ -1,0 +1,5 @@
+# Ignorar la carpeta de módulos de Node
+node_modules/
+
+# Ignorar la carpeta de build, que se crea para el despliegue
+frontend/build/
